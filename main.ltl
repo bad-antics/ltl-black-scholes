@@ -1,0 +1,15 @@
+// ltl-black-scholes/main.ltl
+//
+// Black-Scholes option pricer with greeks.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-black-scholes v0.1.0")
+    io::println("Black-Scholes option pricer with greeks.")
+    0
+}
